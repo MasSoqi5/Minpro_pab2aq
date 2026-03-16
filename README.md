@@ -172,3 +172,37 @@ lib/
 - **flutter_dotenv** — Environment variable management
 - **google_fonts** — Typography (Poppins)
 - **intl** — Format mata uang Rupiah
+
+
+
+Untuk melihat beberapa hasil screenshotnya maka ini adalah 
+
+dari halaman login
+
+<img width="1910" height="1068" alt="Image" src="https://github.com/user-attachments/assets/efc79842-ebeb-41f4-a80f-6b807376a07f" />
+
+Kalau sudah berhasil memasukkan emailnya maka ini adalah tampilan webnya
+
+<img width="1910" height="1071" alt="Image" src="https://github.com/user-attachments/assets/a3aa387c-85d5-43a7-b528-a264df3cbe04" />
+
+Kalau ingin melihat-lihat makanan ada bisa masuk ke panel Makanan
+
+<img width="1910" height="1071" alt="Image" src="https://github.com/user-attachments/assets/9b99f5fb-2515-453f-ab5a-2cf321a96e92" />
+
+dan juga kalau mau melakukan edit tinggal tekan bagian icon pensil, ataupun menghapus makanan ini dengan mengkilk icon sampah
+
+dan masuk ke panel pesanan. disini akan diperlihatkan beberapa macam jenis pesanan dan juga konfirmasinya
+
+<img width="1910" height="1071" alt="Image" src="https://github.com/user-attachments/assets/4f334c48-8f7c-4e0d-8d57-4eb810fd97c6" />
+
+begitu pesan sudah berhasil didapatkan maka inilah hasilnya
+
+<img width="1910" height="1060" alt="Image" src="https://github.com/user-attachments/assets/3f5d8599-96da-442e-aab1-0db0692d939b" />
+
+kalau ini mode light/terang
+
+<img width="1910" height="1071" alt="Image" src="https://github.com/user-attachments/assets/b554373c-3694-41fe-8a1f-524efac75780" />
+
+maka setelah menekan icon bulan akan mengaktifkan mode gelap/dark
+
+<img width="1910" height="1071" alt="Image" src="https://github.com/user-attachments/assets/952af223-d14e-4cdc-a328-804db91ec04a" />
